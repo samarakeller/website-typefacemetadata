@@ -8,65 +8,48 @@
     "status": "Available",
     "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
-  }
-],
-[
+  },
   {
-    "id": "1",
-    "name": "Tempos Mono",
+    "id": "2",
+    "name": "Tempos Mono 2",
     "description": "The Monospace under times.",
     "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
-  }
-],
-[
+  },
   {
-    "id": "1",
-    "name": "Tempos Mono",
+    "id": "3",
+    "name": "Tempos Mono 3",
     "description": "The Monospace under times.",
     "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
-  }
-],
-[
+  },
   {
-    "id": "1",
-    "name": "Tempos Mono",
+    "id": "4",
+    "name": "Tempos Mono 4",
     "description": "The Monospace under times.",
     "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
-  }
-],
-[
+  },
   {
-    "id": "1",
-    "name": "Tempos Mono",
+    "id": "5",
+    "name": "Tempos Mono 5",
     "description": "The Monospace under times.",
     "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
-  }
-],
-[
+  },
   {
-    "id": "1",
-    "name": "Tempos Mono",
-    "description": "The Monospace under times.",
-    "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
-    "category": "Monospace",
-    "status": "Available",
-    "preview": "Aa Bb Cc 123",
-    "tags": ["Monospace", "Technical"]
-  }
-]
+    "id": "6",
+    "name": "Tempos Mono 6",
+    "description":
