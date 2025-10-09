@@ -48,8 +48,5 @@
     "status": "Available",
     "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
-  },
-  {
-    "id": "6",
-    "name": "Tempos Mono 6",
-    "description":
+  }
+]
