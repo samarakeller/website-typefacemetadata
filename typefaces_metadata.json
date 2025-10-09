@@ -2,21 +2,19 @@
   {
     "id": "1",
     "name": "Tempos Mono",
-    "description": "A monospace typeface designed for coding and technical applications.",
+    "description": "The Monospace under times.",
     "category": "Monospace",
     "status": "Available",
-    "price": "From $90",
     "preview": "Aa Bb Cc 123",
-    "tags": ["Monospace", "Technical", "Code"]
+    "tags": ["Monospace", "Technical"]
   },
   {
     "id": "2",
     "name": "Costal",
-    "description": "A versatile sans-serif typeface.",
-    "category": "Sans Serif",
+    "description": "Sunny Serif.",
+    "category": "Serif",
     "status": "Available",
-    "price": "From $120",
     "preview": "Aa Bb Cc 123",
-    "tags": ["Sans Serif", "Versatile"]
+    "tags": ["Serif", "Versatile"]
   }
 ]
