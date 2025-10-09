@@ -3,10 +3,12 @@
     "id": "1",
     "name": "Tempos Mono",
     "description": "The Monospace under times.",
-    "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp", "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20.webp",
+    "images": [
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images/tempostest.webp",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images/tempos-2.jpg",
+    ],
     "category": "Monospace",
     "status": "Finished",
-    "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
   },
   {
