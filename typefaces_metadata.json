@@ -3,20 +3,10 @@
     "id": "1",
     "name": "Tempos Mono",
     "description": "The Monospace under times.",
-    "image": "https://github.com/samarakeller/website-typefacemetadata/blob/main/images%3A/tempostest%20Kopie.webp",
+    "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images/tempostest%20Kopie.webp",
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
-  },
-  {
-    "id": "2",
-    "name": "Costal",
-    "description": "Sunny Serif.",
-    "image": "https://github.com/samarakeller/website-typefacemetadata/blob/main/images%3A/tempostest%20Kopie.webp",
-    "category": "Serif",
-    "status": "Available",
-    "preview": "Aa Bb Cc 123",
-    "tags": ["Serif", "Versatile"]
   }
 ]
