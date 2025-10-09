@@ -1,68 +1,22 @@
 [
   {
+    "id": "1",
     "name": "Tempos Mono",
-    "status": "Finished",
-    "styles": ["Mono", "Mono Italic"],
-    "genre": ["Serif", "Monospace", "Bodytext"]
+    "description": "A monospace typeface designed for coding and technical applications.",
+    "category": "Monospace",
+    "status": "Available",
+    "price": "From $90",
+    "preview": "Aa Bb Cc 123",
+    "tags": ["Monospace", "Technical", "Code"]
   },
   {
+    "id": "2",
     "name": "Costal",
-    "status": "BETA–Nearly Finished",
-    "styles": ["Text", "Medium", "Black", "Bold", "Regular"],
-    "genre": ["Serif", "Bodytext"]
-  },
-  {
-    "name": "(Fette) Anzeige",
-    "status": "BETA–Nearly Finished",
-    "styles": ["Leichte", "Normale", "Fette", "Ultra", "Extreme"],
-    "genre": ["Sans", "Display"]
-  },
-  {
-    "name": "Piste",
-    "status": "BETA–Nearly Finished",
-    "styles": ["Regular", "Italic"],
-    "genre": ["Sans", "Bodytext"]
-  },
-  {
-    "name": "Kendra",
-    "status": "On the drawing board",
-    "styles": ["Regular", "Italic"],
-    "genre": ["Serif", "Bodytext"]
-  },
-  {
-    "name": "New Hand Roman",
-    "status": "On the drawing board",
-    "styles": ["Regular"],
-    "genre": ["Serif"]
-  },
-  {
-    "name": "Sylvania",
-    "status": "UpInComing",
-    "styles": ["Regular"],
-    "genre": ["Display"]
-  },
-  {
-    "name": "Sippon",
-    "status": "On the drawing board",
-    "styles": ["Regular"],
-    "genre": ["Serif", "Bodytext", "Display"]
-  },
-  {
-    "name": "Malima",
-    "status": "On the drawing board",
-    "styles": ["Regular"],
-    "genre": ["Sans", "Display"]
-  },
-  {
-    "name": "Ronaldinho (Ronaldo)",
-    "status": "BETA–Nearly Finished",
-    "styles": ["Regular"],
-    "genre": ["Serif", "Bodytext"]
-  },
-  {
-    "name": "Itera",
-    "status": "On the drawing board",
-    "styles": ["Regular", "Book", "Medium", "Bold", "Black"],
-    "genre": ["Sans", "Bodytext", "Display"]
+    "description": "A versatile sans-serif typeface.",
+    "category": "Sans Serif",
+    "status": "Available",
+    "price": "From $120",
+    "preview": "Aa Bb Cc 123",
+    "tags": ["Sans Serif", "Versatile"]
   }
 ]
