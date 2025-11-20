@@ -17,9 +17,16 @@
   },
   {
     "id": "2",
-    "name": "Tempos Mono 2",
+    "name": "Sylvania",
     "description": "The Monospace under times.",
-    "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
+    "images": [
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_2.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_4.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_5.jpg",     
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_5.jpg" 
+    ],   
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
@@ -27,9 +34,14 @@
   },
   {
     "id": "3",
-    "name": "Tempos Mono 3",
+    "name": "Ronaldinho",
     "description": "The Monospace under times.",
-    "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
+    "images": [
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_2.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_4.jpg"
+    ],   
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
@@ -37,9 +49,15 @@
   },
   {
     "id": "4",
-    "name": "Tempos Mono 4",
+    "name": "Costal",
     "description": "The Monospace under times.",
-    "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
+    "images": [
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_2.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_4.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_5.jpg"
+    ],   
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
@@ -49,7 +67,13 @@
     "id": "5",
     "name": "Tempos Mono 5",
     "description": "The Monospace under times.",
-    "image": "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/tempostest%20Kopie.webp",
+    "images": [
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_1.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_2.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_3.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_4.jpg",
+      "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_5.jpg"
+    ],   
     "category": "Monospace",
     "status": "Available",
     "preview": "Aa Bb Cc 123",
