@@ -12,7 +12,7 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_tmp_5.jpg" 
     ],
     "category": "Monospace",
-    "tags": ["Get License", "Latin"]
+    "tags": ["Get License|mailto:hi@samarakeller.com"]
   },
   {
     "id": "2",
@@ -26,8 +26,8 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_5.jpg",     
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_5.jpg" 
     ],   
-    "category": "Monospace",
-    "tags": ["Mini Site|assets/fontsite/sylvania/index.html", "Get License|mailto:hi@samarakeller.com", "Specimen"]
+    "category": "Display",
+    "tags": ["Mini Site|assets/fontsite/sylvania/index.html", "Get License|mailto:hi@samarakeller.com", "Specimen|assets/fontsite/sylvania/specimen.html""]
   },
   {
     "id": "3",
@@ -40,7 +40,7 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_4.jpg"
     ],   
     "category": "Monospace",
-    "tags": ["Monospace", "Technical"]
+    "tags": ["Get License|mailto:hi@samarakeller.com"]
   },
   {
     "id": "4",
@@ -54,7 +54,7 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_5.jpg"
     ],   
     "category": "Monospace",
-    "tags": ["Monospace", "Technical"]
+    "tags": ["Get License|mailto:hi@samarakeller.com"]
   },
   {
     "id": "5",
@@ -66,7 +66,7 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_anz_3.jpg"
     ],   
     "category": "Monospace",
-    "tags": ["Monospace", "Technical"]
+    "tags": ["Get License|mailto:hi@samarakeller.com"]
   },
   {
     "id": "5",
@@ -80,6 +80,6 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_5.jpg"
     ],   
     "category": "Monospace",
-    "tags": ["Monospace", "Technical"]
+    "tags": ["Get License|mailto:hi@samarakeller.com"]
   }
 ]
