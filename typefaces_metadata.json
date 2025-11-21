@@ -13,6 +13,7 @@
     "category": "Monospace",
     "status": "Finished",
     "tags": ["Monospace", "Latin"]
+    "tags": ["Get License", "Latin"]
   },
   {
     "id": "2",
@@ -28,8 +29,8 @@
     ],   
     "category": "Monospace",
     "status": "Available",
-    "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
+    "tags": ["Get License", "Specimen", "Mini Site"]
   },
   {
     "id": "3",
