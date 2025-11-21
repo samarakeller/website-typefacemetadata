@@ -12,7 +12,6 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_tmp_5.jpg" 
     ],
     "category": "Monospace",
-    "status": "Finished",
     "tags": ["Get License", "Latin"]
   },
   {
@@ -28,7 +27,6 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_5.jpg" 
     ],   
     "category": "Monospace",
-    "status": "Available",
     "tags": ["License|info@auroratype.com", "Specimen"]
   },
   {
@@ -42,8 +40,6 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_4.jpg"
     ],   
     "category": "Monospace",
-    "status": "Available",
-    "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
   },
   {
@@ -58,8 +54,6 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_5.jpg"
     ],   
     "category": "Monospace",
-    "status": "Available",
-    "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
   },
   {
@@ -72,8 +66,6 @@
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_anz_3.jpg"
     ],   
     "category": "Monospace",
-    "status": "Available",
-    "preview": "Aa Bb Cc 123",
     "tags": ["Monospace", "Technical"]
   },
   {
