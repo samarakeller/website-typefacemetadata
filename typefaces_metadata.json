@@ -16,6 +16,7 @@
   {
     "id": "2",
     "name": "Sylvania",
+    "description": "Spooky display",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_1.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_2.jpg",
