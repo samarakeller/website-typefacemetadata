@@ -69,7 +69,7 @@
   {
     "id": "6",
     "name": "Rough Times",
-    "description": "The Monospace under times.",
+    "description": "2 styles: Sloppy + Wonky",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_1.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_2.jpg",
@@ -83,7 +83,7 @@
     {
     "id": "7",
     "name": "Malima",
-    "description": "The Monospace under times.",
+    "description": "One style geometric display + partial pan african extension",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/services_img_mal.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/services_img_mal2.jpg",
@@ -96,7 +96,7 @@
   {
     "id": "8",
     "name": "Piste",
-    "description": "The Monospace under times.",
+    "description": "Regular + Italic",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/services_img_pis.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/services_img_pis2.jpg"
