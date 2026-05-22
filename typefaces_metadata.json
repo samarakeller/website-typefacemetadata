@@ -43,7 +43,7 @@
   {
     "id": "4",
     "name": "Costal",
-    "description": "4 Weights Regular, Text, Medium, Bold.",
+    "description": "4 Weights: Regular, Text, Medium, Bold.",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_1.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_cst_2.jpg",
@@ -69,7 +69,7 @@
   {
     "id": "6",
     "name": "Rough Times",
-    "description": "2 styles: Sloppy + Wonky",
+    "description": "2 Styles: Sloppy + Wonky",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_1.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rgt_2.jpg",
