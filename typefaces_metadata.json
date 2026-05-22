@@ -16,7 +16,7 @@
   {
     "id": "2",
     "name": "Sylvania",
-    "description": "Spooky display",
+    "description": "One cut spooky display",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_1.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_syl_2.jpg",
@@ -30,7 +30,7 @@
   {
     "id": "3",
     "name": "Ronaldinho",
-    "description": "The Monospace under times.",
+    "description": "Regular style + cyrillic extension.",
     "images": [
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_1.jpg",
       "https://raw.githubusercontent.com/samarakeller/website-typefacemetadata/main/images:/image_rnd_2.jpg",
